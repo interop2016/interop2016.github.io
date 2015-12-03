@@ -14,7 +14,7 @@ Organisers
 * Thomas Margoni, University of Stirling, UK
 * Wim Peters, University of Sheffield, UK
 * Stelios Piperidis, ILSP/ARC, Greece
-* Theo Manouilidis, ILSP/ARC, Greece
+* Theodoros Manouilidis, ILSP/ARC, Greece
 
 Program Committee
 -----------------
