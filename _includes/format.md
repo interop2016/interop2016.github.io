@@ -1,5 +1,4 @@
-Workshop format
----------------
+### Workshop format
 
 The workshop is planned as an open-space event in which the workshop
 participants host and participate in discussions related to the topics of

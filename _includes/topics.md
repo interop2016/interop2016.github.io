@@ -1,5 +1,4 @@
-Topics of interest
-------------------
+### Topics of interest
 
 Workshop topics include but are not limited to:
 

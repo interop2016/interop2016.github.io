@@ -6,8 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-Schedule
---------
+### Schedule
 
 TBD
 

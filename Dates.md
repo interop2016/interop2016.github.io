@@ -6,8 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-Important Dates
------------------
+### Important Dates
 
 * **Submission: February 19, 2016**
 * Notification: March 4, 2016​

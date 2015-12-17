@@ -9,8 +9,7 @@ At the 10th Language Resources and Evaluation Conference (LREC 2016)
 Grand Hotel Bernardin Conference Center, Portorož (Slovenia)
 May 23rd 2016
 
-Description
------------
+### Description
 
 Recent years have witnessed an upsurge in the quantity of available digital research data, offering new insights and opportunities for improved understanding. Following advances in Natural Language Processing (NLP), Text and data mining (TDM) is emerging as an invaluable tool for harnessing the power of structured and unstructured content and data. Hidden and new knowledge can be discovered by using TDM at multiple levels and in multiple dimensions. However, text mining and NLP solutions are not easy to discover and use, nor are they easy to combine for end users.
 

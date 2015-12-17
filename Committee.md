@@ -6,8 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-Organisers
-----------
+### Organisers
 
 * Richard Eckart de Castilho, Technische Universität Darmstadt, Germany
 * Sophia Ananiadou University of Manchester, UK
@@ -16,8 +15,7 @@ Organisers
 * Stelios Piperidis, ILSP/ARC, Greece
 * Theodoros Manouilidis, ILSP/ARC, Greece
 
-Program Committee
------------------
+### Program Committee
 
 * Alastair Dunning, Europeana, The Netherlands
 * Chengqing Zong, Chinese Academy of Sciences, China

@@ -6,8 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-Submission
-----------
+### Submission
 
 We invite submissions of extended abstracts/short papers describing recent
 work, thoughts, or best practices on one or more of the topics of interest (up
@@ -22,6 +21,10 @@ Accepted papers will be presented at the workshop in the form of a 5 minute
 lightning talk and included in the workshop proceedings. If there is an
 unexpectedly high number of submissions, we may consider accepting some as
 posters. 
+
+### How to submit
+
+Please submit through the [START conference tool](https://www.softconf.com/lrec2016/INTEROP/).
 
 {% include format.md %}
 
