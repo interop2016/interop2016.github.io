@@ -23,7 +23,7 @@ group: navigation
 * Hideki Mima, University of Tokyo, Japan
 * Iryna Gurevych, Technische Universität Darmstadt, Germany 
 * Jens Grivolla, Universitat Pompeu Fabra, Spain
-* John McCrae, University of Bielefeld, Germany
+* John Philip McCrae, National University of Ireland, Galway, Ireland
 * Joseph Mariani, LIMSI/CNRS, France
 * Kalina Bontcheva, University of Sheffield, UK
 * Lucie Guibault, University of Amsterdam, The Netherlands
