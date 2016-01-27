@@ -22,6 +22,12 @@ lightning talk and included in the workshop proceedings. If there is an
 unexpectedly high number of submissions, we may consider accepting some as
 posters. 
 
+### Authors Kit
+
+The authors kit for the final submission will be linked on the [LREC 2016 final submission page](http://lrec2016.lrec-conf.org/en/submission/submit-your-final-paper/).
+
+As long as the authors kit for LREC 2016 is not available, we suggest to use [the one from LREC 2014](http://lrec2014.lrec-conf.org/en/submission/authors-kit/) for your initial submission. For the camera ready version, the final LREC 2016 kit will be available.
+
 ### How to submit
 
 Please submit through the [START conference tool](https://www.softconf.com/lrec2016/INTEROP/).
