@@ -15,7 +15,7 @@ Workshop on Cross-Platform Text Mining and Natural Language Processing Interoper
                             Portorož, Slovenia<br/>
                                 23 May 2016<br/>
 <br/>
-                         First Call for Submissions<br/>
+                         Call for Submissions<br/>
 <br/>
                         http://interop2016.github.io​
 </div>                        
