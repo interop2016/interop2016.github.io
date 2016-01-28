@@ -24,9 +24,7 @@ posters.
 
 ### Authors Kit
 
-The authors kit for the final submission will be linked on the [LREC 2016 final submission page](http://lrec2016.lrec-conf.org/en/submission/submit-your-final-paper/).
-
-As long as the authors kit for LREC 2016 is not available, we suggest to use [the one from LREC 2014](http://lrec2014.lrec-conf.org/en/submission/authors-kit/) for your initial submission. For the camera ready version, the final LREC 2016 kit will be available.
+The final paper must follow the guidelines provided in the [Author’s Kit](http://lrec2016.lrec-conf.org/en/submission/authors-kit/) and it should be in pdf unprotected format.
 
 ### How to submit
 
