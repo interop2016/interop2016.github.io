@@ -37,5 +37,6 @@ group: navigation
 * Renaud Richardet, EPFL, Switzerland
 * Robert Bossy, INRA, France
 * Thilo Götz, IBM, Germany
+* Steven Bethard, University of Alabama at Birmingham, USA
 * Torsten Zesch, University of Duisburg-Essen, Germany
 * Yohei Murakami, Kyoto University, Japan
