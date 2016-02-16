@@ -15,6 +15,12 @@ May 23rd 2016
 </div>                        
 <p></p>
 
+<p></p>
+<div style="text-align:center; font-weight:bold; font-size: 130%;">
+<a href="Dates.html">Extended submission deadline: February 25, 2016!</a>
+</div>                        
+<p></p>
+
 
 ### Description
 
