@@ -8,6 +8,13 @@ group: navigation
 
 ### Submission
 
+<p></p>
+<div style="text-align:center; font-weight:bold; font-size: 130%;">
+Submission is closed. Submitted papers are under review.
+</div>                        
+<p></p>
+
+
 We invite submissions of extended abstracts/short papers describing recent
 work, thoughts, or best practices on one or more of the topics of interest (up
 to 4 pages). All submissions will be reviewed using a simple blind process by
