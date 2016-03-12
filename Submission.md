@@ -8,13 +8,6 @@ group: navigation
 
 ### Submission
 
-<p></p>
-<div style="text-align:center; font-weight:bold; font-size: 130%;">
-Submission is closed. Submitted papers are under review.
-</div>                        
-<p></p>
-
-
 We invite submissions of extended abstracts/short papers describing recent
 work, thoughts, or best practices on one or more of the topics of interest (up
 to 4 pages). All submissions will be reviewed using a simple blind process by
@@ -31,11 +24,11 @@ posters.
 
 ### Authors Kit
 
-The final paper must follow the guidelines provided in the [Author’s Kit](http://lrec2016.lrec-conf.org/en/submission/authors-kit/) and it should be in pdf unprotected format.
+The **camera-ready** version must follow the guidelines provided in the [Author’s Kit](http://lrec2016.lrec-conf.org/en/submission/authors-kit/) and it should be in pdf unprotected format.
 
 ### How to submit
 
-Please submit through the [START conference tool](https://www.softconf.com/lrec2016/INTEROP/).
+Please submit the **camera-ready** version through the [START conference tool](https://www.softconf.com/lrec2016/INTEROP/).
 
 {% include format.md %}
 

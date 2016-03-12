@@ -24,7 +24,7 @@ We have **one free registration for the workshop** to give away. Want to have it
 
 We give preference to a **student** who is short on money and would otherwise not be able to attend the workshop. 
 
-Please send your application or any questions regarding the process by mail to **eckart AT ukp.informatik.tu-darmstadt.de** until **March 8, 2016**. 
+Please send your application or any questions regarding the process by mail to **eckart AT ukp.informatik.tu-darmstadt.de** until **March 16, 2016**. 
 
 **NOTE**
 
