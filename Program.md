@@ -33,7 +33,7 @@ This is a preliminary list of the accepted submissions that are going to be pres
 * **Why We Need a Text and Data Mining Exception (but it is not enough)** <br/> Tom Margoni and Giulia Dore
 * **Legal Interoperability Issues in the Framework of the OpenMinTeD Project: a Methodological Overview** <br/> Penny Labropoulou, Stelios Piperidis and Tom Margoni
 * **Interoperability = f(community, division of labour)** <br/> Richard Eckart de Castilho
-* **The DDINCBI Corpus — Towards a Larger Resource for Drug-Drug Interactions in PubMed** <br/> Lana Yeganova, Sun Kim, Grigory Balasanov, Kristin Bennett, haibin liu and W. John Wilbur 
+* **The DDINCBI Corpus — Towards a Larger Resource for Drug-Drug Interactions in PubMed** <br/> Lana Yeganova, Sun Kim, Grigory Balasanov, Kristin Bennett, Haibin Liu and W. John Wilbur 
 * **Aggregating Research Papers from Publishers’ Systems to Support Text and Data Mining: Deliberate Lack of Interoperability or Not?** <br/> Petr Knoth and Nancy Pontika
 * **Interoperability of corpus processing workflow engines: the case of AlvisNLP/ML in OpenMinTeD** <br/> Mouhamadou Ba and Robert Bossy
 
