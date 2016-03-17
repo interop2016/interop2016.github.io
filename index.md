@@ -17,12 +17,6 @@ May 23rd 2016
 
 <p></p>
 <div style="text-align:center; font-weight:bold; font-size: 130%;">
-<a href="Registration.html">Apply for a free workshop registration!</a>
-</div>                        
-<p></p>
-
-<p></p>
-<div style="text-align:center; font-weight:bold; font-size: 130%;">
 <a href="Dates.html">Camera-ready deadline: March 25, 2016​</a>
 </div>                        
 <p></p>
