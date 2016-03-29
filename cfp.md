@@ -148,14 +148,10 @@ LREC papers  will be offered at submission time.
 * Thomas Margoni, University of Stirling, UK
 * Wim Peters, University of Sheffield, UK
 * Stelios Piperidis, ILSP/ARC, Greece
-* Theodoros Manouilidis, ILSP/ARC, Greece
 
 ### Programme Committee
 
-* Alastair Dunning, Europeana, The Netherlands
-* Chengqing Zong, Chinese Academy of Sciences, China
 * Dominique Estival, Western Sydney University, Australia
-* Hideki Mima, University of Tokyo, Japan
 * Iryna Gurevych, Technische Universität Darmstadt, Germany 
 * Jens Grivolla, Universitat Pompeu Fabra, Spain
 * John Philip McCrae, National University of Ireland, Galway, Ireland
