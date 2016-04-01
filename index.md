@@ -15,13 +15,6 @@ May 23rd 2016
 </div>                        
 <p></p>
 
-<p></p>
-<div style="text-align:center; font-weight:bold; font-size: 130%;">
-<a href="Dates.html">Camera-ready deadline: March 25, 2016​</a>
-</div>                        
-<p></p>
-
-
 ### Description
 
 Recent years have witnessed an upsurge in the quantity of available digital research data, offering new insights and opportunities for improved understanding. Following advances in Natural Language Processing (NLP), Text and data mining (TDM) is emerging as an invaluable tool for harnessing the power of structured and unstructured content and data. Hidden and new knowledge can be discovered by using TDM at multiple levels and in multiple dimensions. However, text mining and NLP solutions are not easy to discover and use, nor are they easy to combine for end users.
