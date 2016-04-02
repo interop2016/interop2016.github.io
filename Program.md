@@ -17,6 +17,20 @@ To give a very rough __preliminary schedule__...
 * Discussion in breakout groups (continued)
 * Presentation of breakout group results in plenary
 
+### Keynote
+
+<img style="width: 15%; float: right; margin-left: 1em;" src="assets/fotoAle2.jpg"/>
+
+<div style="width: 83%">
+<p style="font-weight: bold; font-size: 110%">Interoperability - Can a model driven approach help to overcome organizational constraints?</p>
+
+Alessandro Di Bari is an IBM Executive/Senior Certified application architect.
+He developed great experience in the application development field from both development process and application architecture point of view.
+Starting from a deep involvement with modeling languages, he achieved significant results in the Model Driven Development (MDD) space, developing Domain Specific Languages for industries such as insurance. 
+Since 2011, he works in the NLP/cognitive field, successfully applies his MDD skills in this field and also published several papers on this topic.
+Since 2014, he works for the IBM Watson Cognitive Healthcare in the T.J. Watson research center in New York, USA.
+</div>
+
 ### Lightning talks
 
 This is a preliminary list of the accepted submissions that are going to be presented in the lightning talk section:
