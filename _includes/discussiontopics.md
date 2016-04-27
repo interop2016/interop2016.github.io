@@ -1,0 +1,6 @@
+- Discovery of content and access to content<br/>
+- Interoperability across tools, frameworks, and platforms<br/> 
+- Interoperability across language resources and knowledge resources <br/>
+- Legal and policy issues<br/>
+- Interoperability in multi-lingual and cross-lingual scenarios<br/>
+- eInfrastructures
