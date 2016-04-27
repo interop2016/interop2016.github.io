@@ -17,7 +17,7 @@ group.
 
 During this session, the paper authors briefly introduce their topics, opinions, ideas, and questions to the audience in a 5-minute lightning talk. These talks serve to contextualize and kick-off the discussions rounds later the day.
 
-If you are a presenter and wish to use slides during your talk, please send the slides as PDF to *eckart AT ukp.informatik.tu-darmstadt.de* until the May 22nd 23:59 local time in Portoroz.
+For presenters: Slides are optional. If you can convey your ideas in a fiery speech without any slides, that is great! If you wish to use slides during your talk, please send the slides as PDF to *eckart AT ukp.informatik.tu-darmstadt.de* until the May 22nd 23:59 local time in Portoroz such that we can pre-load them on a laptop.
 
 ### Discussion rounds
 
