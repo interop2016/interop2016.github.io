@@ -28,6 +28,8 @@ Since 2014, he works for the IBM Watson Cognitive Healthcare in the T.J. Watson 
 
 *5 minutes per talk, slides optional*
 
+*Get the official all-in-one workshop proceedings from the (LREC 2016 website)[http://www.lrec-conf.org/proceedings/lrec2016/workshops/LREC2016Workshop-INTEROP_Proceedings.pdf]*.
+
 10.00 -- 10.30
 
 : **Aggregating Research Papers from Publishers’ Systems to Support Text and Data Mining: Deliberate Lack of Interoperability or Not?**<br/> Petr Knoth and Nancy Pontika<br/>[PDF](pdf/INTEROP-1.pdf) [BibTeX](pdf/INTEROP-1.bib)
