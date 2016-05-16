@@ -28,7 +28,7 @@ Since 2014, he works for the IBM Watson Cognitive Healthcare in the T.J. Watson 
 
 *5 minutes per talk, slides optional*
 
-*Get the official all-in-one workshop proceedings from the (LREC 2016 website)[http://www.lrec-conf.org/proceedings/lrec2016/workshops/LREC2016Workshop-INTEROP_Proceedings.pdf]*.
+*Get the official all-in-one workshop proceedings from the [LREC 2016 website](http://www.lrec-conf.org/proceedings/lrec2016/workshops/LREC2016Workshop-INTEROP_Proceedings.pdf)*.
 
 10.00 -- 10.30
 
