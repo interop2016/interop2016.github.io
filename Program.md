@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+Get the official all-in-one workshop proceedings from the [LREC 2016 website](http://www.lrec-conf.org/proceedings/lrec2016/workshops/LREC2016Workshop-INTEROP_Proceedings.pdf). One-submission-per-file and BibTeX files linked below.
+
 ### Opening Session
 
 09.00 -- 09.10
@@ -27,8 +29,6 @@ Since 2014, he works for the IBM Watson Cognitive Healthcare in the T.J. Watson 
 ### Lightning talks part I
 
 *5 minutes per talk, slides optional*
-
-*Get the official all-in-one workshop proceedings from the [LREC 2016 website](http://www.lrec-conf.org/proceedings/lrec2016/workshops/LREC2016Workshop-INTEROP_Proceedings.pdf)*.
 
 10.00 -- 10.30
 
