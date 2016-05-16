@@ -30,17 +30,17 @@ Since 2014, he works for the IBM Watson Cognitive Healthcare in the T.J. Watson 
 
 10.00 -- 10.30
 
-: **Aggregating Research Papers from Publishers’ Systems to Support Text and Data Mining: Deliberate Lack of Interoperability or Not?**<br/> Petr Knoth and Nancy Pontika
+: **Aggregating Research Papers from Publishers’ Systems to Support Text and Data Mining: Deliberate Lack of Interoperability or Not?**<br/> Petr Knoth and Nancy Pontika<br/>[PDF](pdf/INTEROP-1.pdf) [BibTeX](pdf/INTEROP-1.bib)
 
-: **Alveo: making data accessible through a unified interface – a pipe-dream?**<br/>Dominique Estival
+: **Alveo: making data accessible through a unified interface – a pipe-dream?**<br/>Dominique Estival<br/>[PDF](pdf/INTEROP-2.pdf) [BibTeX](pdf/INTEROP-2.bib)
 
-: **The Language Application Grid**<br/>Nancy Ide, Keith Suderman, James Pustejovsky, Marc Verhagen, Christopher Cieri and Eric Nyberg
+: **The Language Application Grid**<br/>Nancy Ide, Keith Suderman, James Pustejovsky, Marc Verhagen, Christopher Cieri and Eric Nyberg<br/>[PDF](pdf/INTEROP-3.pdf) [BibTeX](pdf/INTEROP-3.bib)
 
-: **Interoperability of corpus processing work-flow engines: the case of AlvisNLP/ML in OpenMinTeD**<br/>Mouhamadou Ba and Robert Bossy
+: **Interoperability of corpus processing work-flow engines: the case of AlvisNLP/ML in OpenMinTeD**<br/>Mouhamadou Ba and Robert Bossy<br/>[PDF](pdf/INTEROP-4.pdf) [BibTeX](pdf/INTEROP-4.bib)
 
-: **Integration of UIMA Text Mining Components into an Event-based Asyn- chronous Microservice Architecture**<br/>Sven Hodapp, Sumit Madan, Juliane Fluck and Marc Zimmermann
+: **Integration of UIMA Text Mining Components into an Event-based Asynchronous Microservice Architecture**<br/>Sven Hodapp, Sumit Madan, Juliane Fluck and Marc Zimmermann<br/>[PDF](pdf/INTEROP-5.pdf) [BibTeX](pdf/INTEROP-5.bib)
 
-: **Interoperability = f (community, division of labour)**<br/>Richard Eckart de Castilho
+: **Interoperability = f(community, division of labour)**<br/>Richard Eckart de Castilho<br/>[PDF](pdf/INTEROP-6.pdf) [BibTeX](pdf/INTEROP-6.bib)
 
 11.30 -- 11.00
 : Coffee break
@@ -51,21 +51,21 @@ Since 2014, he works for the IBM Watson Cognitive Healthcare in the T.J. Watson 
 
 11.00 -- 11.45
 
-: **Linked Data and Text Mining as an Enabler for Reproducible Research**<br/>John P. McCrae, Georgeta Bordea and Paul Buitelaar
+: **Linked Data and Text Mining as an Enabler for Reproducible Research**<br/>John P. McCrae, Georgeta Bordea and Paul Buitelaar<br/>[PDF](pdf/INTEROP-7.pdf) [BibTeX](pdf/INTEROP-7.bib)
 
-: **Tackling Resource Interoperability: Principles, Strategies and Models**<br/>Wim Peters
+: **Tackling Resource Interoperability: Principles, Strategies and Models**<br/>Wim Peters<br/>[PDF](pdf/INTEROP-8.pdf) [BibTeX](pdf/INTEROP-8.bib)
 
-: **The DDINCBI Corpus — Towards a Larger Resource for Drug-Drug Interactions in PubMed**<br/>Lana Yeganova, Sun Kim, Grigory Balasanov, Kristin Bennett, Haibin Liu and W. John Wilbur
+: **The DDINCBI Corpus — Towards a Larger Resource for Drug-Drug Interactions in PubMed**<br/>Lana Yeganova, Sun Kim, Grigory Balasanov, Kristin Bennett, Haibin Liu and W. John Wilbur<br/>[PDF](pdf/INTEROP-9.pdf) [BibTeX](pdf/INTEROP-9.bib)
 
-: **Multilingual Event Detection using the NewsReader pipelines**<br/>Rodrigo Agerri, Itziar Aldabe, Egoitz Laparra, German Rigau, Antske Fokkens, Paul Huijgen, Marieke van Erp, Ruben Izquierdo Bevia, Piek Vossen, Anne-Lyse Minard and Bernardo Magnini
+: **Multilingual Event Detection using the NewsReader pipelines**<br/>Rodrigo Agerri, Itziar Aldabe, Egoitz Laparra, German Rigau, Antske Fokkens, Paul Huijgen, Marieke van Erp, Ruben Izquierdo Bevia, Piek Vossen, Anne-Lyse Minard and Bernardo Magnini<br/>[PDF](pdf/INTEROP-10.pdf) [BibTeX](pdf/INTEROP-10.bib)
 
-: **Emotion Detection using Online Machine Learning Method and TLBO on Mixed Script**<br/>Shashank Sharma, PYKL Srinivas and Rakesh Balabantaray
+: **Emotion Detection using Online Machine Learning Method and TLBO on Mixed Script**<br/>Shashank Sharma, PYKL Srinivas and Rakesh Balabantaray<br/>[PDF](pdf/INTEROP-11.pdf) [BibTeX](pdf/INTEROP-11.bib)
 
-: **Text mining for notability computation**<br/>Gil Francopoulo, Joseph Mariani and Patrick Paroubek
+: **Text mining for notability computation**<br/>Gil Francopoulo, Joseph Mariani and Patrick Paroubek<br/>[PDF](pdf/INTEROP-12.pdf) [BibTeX](pdf/INTEROP-12.bib)
 
-: **Why We Need a Text and Data Mining Excep-tion (but it is not enough)**<br/>Thomas Margoni and Giulia Dore
+: **Why We Need a Text and Data Mining Exception (but it is not enough)**<br/>Thomas Margoni and Giulia Dore<br/>[PDF](pdf/INTEROP-13.pdf) [BibTeX](pdf/INTEROP-13.bib)
 
-: **Legal Interoperability Is-sues in the Framework of the OpenMinTeD Project: a Methodological Overview**<br/>Penny Labropoulou, Stelios Piperidis and Thomas Margoni
+: **Legal Interoperability Is-sues in the Framework of the OpenMinTeD Project: a Methodological Overview**<br/>Penny Labropoulou, Stelios Piperidis and Thomas Margoni<br/>[PDF](pdf/INTEROP-14.pdf) [BibTeX](pdf/INTEROP-14.bib)
 
 : **eInfrastructures: crossing boundaries, dis-covering common work, achieving common goals**<br/>Hege van Dijke and Stelios Piperidis
 
