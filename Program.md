@@ -44,7 +44,7 @@ Since 2014, he works for the IBM Watson Cognitive Healthcare in the T.J. Watson 
 
 : **Interoperability = f(community, division of labour)**<br/>Richard Eckart de Castilho<br/>[PDF](pdf/INTEROP-6.pdf) [BibTeX](pdf/INTEROP-6.bib)
 
-11.30 -- 11.00
+10.30 -- 11.00
 : Coffee break
 
 ### Lightning talks part II
