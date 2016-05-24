@@ -9,14 +9,6 @@ At the 10th Language Resources and Evaluation Conference (LREC 2016)
 Grand Hotel Bernardin Conference Center, Portorož (Slovenia)
 May 23rd 2016
 
-<p></p>
-<div style="text-align:center; font-weight:bold; font-size: 130%;">
-<a href="Registration.html">Registration now open!</a>
-</div>                        
-<p></p>
-
-### INTEROP2016 Live
-
 The workshop is over, but the notes are still available to view and comment on. Thanks to all particpants for their constructive discussions and note taking.
 
 * [Google Docs](https://goo.gl/QBW1Cc)
