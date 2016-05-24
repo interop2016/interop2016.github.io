@@ -17,6 +17,8 @@ May 23rd 2016
 
 ### INTEROP2016 Live
 
+The workshop is over, but the notes are still available to view and comment on. Thanks to all particpants for their constructive discussions and note taking.
+
 * [Google Docs](https://goo.gl/QBW1Cc)
 * [Twitter](https://twitter.com/search?q=%23lrec2016&src=typd)
 
