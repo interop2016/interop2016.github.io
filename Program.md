@@ -67,9 +67,9 @@ Since 2014, he works for the IBM Watson Cognitive Healthcare in the T.J. Watson 
 
 : **Why We Need a Text and Data Mining Exception (but it is not enough)**<br/>Thomas Margoni and Giulia Dore<br/>[PDF](pdf/INTEROP-13.pdf) [BibTeX](pdf/INTEROP-13.bib)
 
-: **Legal Interoperability Is-sues in the Framework of the OpenMinTeD Project: a Methodological Overview**<br/>Penny Labropoulou, Stelios Piperidis and Thomas Margoni<br/>[PDF](pdf/INTEROP-14.pdf) [BibTeX](pdf/INTEROP-14.bib)
+: **Legal Interoperability Issues in the Framework of the OpenMinTeD Project: a Methodological Overview**<br/>Penny Labropoulou, Stelios Piperidis and Thomas Margoni<br/>[PDF](pdf/INTEROP-14.pdf) [BibTeX](pdf/INTEROP-14.bib)
 
-: **eInfrastructures: crossing boundaries, dis-covering common work, achieving common goals**<br/>Hege van Dijke and Stelios Piperidis
+: **eInfrastructures: crossing boundaries, discovering common work, achieving common goals**<br/>Hege van Dijke and Stelios Piperidis
 
 ### Discussion rounds I
 
