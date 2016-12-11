@@ -6,7 +6,9 @@ group: navigation
 ---
 {% include JB/setup %}
 
-Get the official all-in-one workshop proceedings from the [LREC 2016 website](http://www.lrec-conf.org/proceedings/lrec2016/workshops/LREC2016Workshop-INTEROP_Proceedings.pdf). One-submission-per-file and BibTeX files linked below.
+The publications provided on this page are part of the Language Resource and Evaluation Conference (LREC) proceedings that are published by the European Language Resources Association (ELRA). They are available online from the [conference website](http://www.lrec-conf.org/proceedings/lrec2016/workshops/LREC2016Workshop-INTEROP_Proceedings.pdf). The LREC 2016 Proceedings are licensed under CC-BY-NC, the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+For your convenience, we have split the original proceeings into one-file-per-submission and have created BibTeX the files linked below.
 
 ### Opening Session
 
